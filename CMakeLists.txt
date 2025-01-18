@@ -14,7 +14,6 @@ set(SOURCES
     src/algorithms/johnson.cpp
     src/graph.cpp
     src/utility.cpp
-    experiments/main.cpp
 )
 
 add_executable(SD_project ${SOURCES})
